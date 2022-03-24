@@ -6,7 +6,7 @@ This recipe is taken as an example from https://github.com/sinker/tacofancy/blob
 
 We are avid meat eaters, but these vegetarian tacos are one of our go-tos in
 Peru. If you can make the pickles with Peruvian aji amarillo, please do.
-- Marinate cauliflower with spice mix
+- Marinate cauliflower with hot spice mix
 - Roast cauliflower
 - Pickled chilis and vegetables
 - Caramelized red onions
